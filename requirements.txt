@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymilvus
+openai
+python-dotenv
+tiktoken
+PyMuPDF
+python-docx
+streamlit
+requests
