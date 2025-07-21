@@ -2,7 +2,7 @@
 
 A full-stack Retrieval-Augmented Generation (RAG) system that allows users to upload documents, generate embeddings, and ask questions to get intelligent answers based on the document content.
 
-## 🚀 Features
+## Features
 
 - **Document Upload**: Support for PDF, DOCX, and TXT files
 - **Vector Embeddings**: Uses OpenAI's text-embedding-3-small model for generating embeddings
@@ -11,14 +11,14 @@ A full-stack Retrieval-Augmented Generation (RAG) system that allows users to up
 - **REST API**: FastAPI backend for document processing and querying
 - **Docker Support**: Complete containerized setup with Milvus, MinIO, and etcd
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.8+
 - Docker and Docker Compose
 - OpenAI API key
 - Milvus Cloud account (or local Milvus setup)
 
-## 🚀 Usage
+## Usage
 
 ### 1. Start the FastAPI Backend
 ```bash
