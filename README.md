@@ -34,7 +34,7 @@ streamlit run streamlit_app.py
 - **Frontend**: http://localhost:8501
 - **API Documentation**: http://localhost:8000/docs
 
-## 📖 How to Use
+## How to Use
 
 1. **Upload Documents**: Use the sidebar to upload PDF, DOCX, or TXT files
 2. **Process Documents**: Click "Embed All Files" to generate embeddings
